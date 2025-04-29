@@ -1,0 +1,16 @@
+Package: lepidochroma
+Title: Colour Palettes Inspired by Butterflies
+Version: 0.0.0.9002
+Authors@R: c(
+    person("Sara", "Gamboa", , "sara.gamboa@uvigo.gal", role = "aut", comment = c(ORCID = "0000-0002-0829-3747")),
+    person("Sofía", "Galván", , "sofia.galvan@uvigo.gal", role = "aut", comment = c(ORCID = "0000-0002-3092-4314")),
+    person("Lewis A.", "Jones", , "LewisA.Jones@outlook.com", role = "aut", comment = c(ORCID = "0000-0003-3902-8986")),
+    person("Adrián", "Castro Insua", , "adrian.castro.insua@uvigo.gal", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-4184-8641"))
+    )
+Description: A collection of colour palettes inspired by some of our
+  dearest butterfly species.  This package provides continuous and
+  categorical palettes, with a few colourblind friendly options.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
